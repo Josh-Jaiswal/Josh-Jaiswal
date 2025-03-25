@@ -1,6 +1,6 @@
 # Hey there, I'm Josh! 👋
 
-Welcome to my GitHub playground where creativity meets code!  
+Welcome to my Github page, where bugs are uninvited guests and each fix is like a plot twist in a quirky sitcom.  
 I'm a Computer & Communication Engineering student at **Manipal University Jaipur** with a passion for full-stack development, machine learning, and building cool projects.
 
 ---
