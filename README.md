@@ -56,7 +56,7 @@ I'm a Computer & Communication Engineering student at **Manipal University Jaipu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-jaiswal-72029424b/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Josh-Jaiswal)
 
-> **Psst...** Check out my [resume]([https://drive.google.com/file/d/1lAZfctY6EeGZIzzdzMQw1kXRA-kbDB6f/view?usp=drive_link](https://drive.google.com/file/d/1WiBbOkPOub-mg-usCkyn2o20c8TtcC28/view?usp=drive_link)) to see the full story behind my adventures in tech!
+> **Psst...** Check out my [resume](https://drive.google.com/file/d/1WiBbOkPOub-mg-usCkyn2o20c8TtcC28/view?usp=drive_link) to see the full story behind my adventures in tech!
 
 ---
 
