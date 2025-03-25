@@ -2,8 +2,6 @@
 
 Welcome to my Github page, where bugs are uninvited guests and each fix is like a plot twist in a quirky sitcom.  
 
-![Kitten Typing](https://media.tenor.com/images/2adfe94e69125c3e8e7cb4a6c7c0d3b7/tenor.gif)
-
 I'm a Computer & Communication Engineering student at **Manipal University Jaipur** with a passion for full-stack development, machine learning, and building cool projects.
 
 ---
@@ -80,3 +78,5 @@ Thanks for stopping by! Feel free to explore my repositories and get in touch if
 ---
 
 *Keep Calm and Code On!*
+
+![Kitten Typing](https://media1.tenor.com/m/bQCHJwgCNuMAAAAd/kitten-cat.gif)
