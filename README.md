@@ -14,8 +14,7 @@ I'm a Computer & Communication Engineering student at **Manipal University Jaipu
 - 🌱 **I’m Currently Learning:**  
   - Cutting-edge ML techniques, scalable web architectures, and exploring new frameworks to make code more expressive.
 
-- 🎯 **Fun Fact:**  
-  - When I’m not coding, you might find me designing quirky interfaces or brainstorming the next big hackathon idea with my ACM squad!
+
 
 ---
 
